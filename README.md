@@ -9,13 +9,13 @@ The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
     # without desc
-    phonegap plugin add https://github.com/VerianMobile/ImagePicker.git
-    cordova plugin add https://github.com/VerianMobile/ImagePicker.git
+    phonegap plugin add https://github.com/andriigentle/ImagePicker.git
+    cordova plugin add https://github.com/andriigentle/ImagePicker.git
     
     # with desc
-    phonegap plugin add https://github.com/VerianMobile/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    phonegap plugin add https://github.com/andriigentle/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
-    cordova plugin add https://github.com/VerianMobile/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    cordova plugin add https://github.com/andriigentle/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
 
 ## Using the plugin
